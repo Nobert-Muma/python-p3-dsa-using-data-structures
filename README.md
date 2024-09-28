@@ -1,4 +1,4 @@
-# Using Data Structures
+# Using Data Structures.
 
 ## Learning Goals
 
